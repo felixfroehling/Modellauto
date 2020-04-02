@@ -21,7 +21,6 @@ def callback(data):
     #rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)  # Debug information
     buf = float(data.data)
     print(buf)
-    #print(type(buf))
     changeSteering(buf)
     
     
