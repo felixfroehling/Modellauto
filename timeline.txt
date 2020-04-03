@@ -1,0 +1,16 @@
+01.04.2020  Problem that MCP2515 can only 500kbit Baudrate. Motorcontroller has 1MBit Baudrate.
+            Solved by replace the 8k quarz with a 16k quarz
+
+02.04.2020  finished ROS can-communication Node and tested it
+            created Github account and started documantation
+03.04.2020  extend the github documantation
+04.04.2020
+05.04.2020
+06.04.2020
+07.04.2020
+08.04.2020
+09.04.2020
+10.04.2020
+11.04.2020
+12.04.2020
+
