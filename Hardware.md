@@ -1,6 +1,6 @@
 # Hardware and Electric Components
 
-In this document I will give an overview of the used hardware components and their connection.
+In this document I will give an overview of the used hardware components.
 
 ## System Block Diagram
 For better understanding i made a system block diagram to show how the components are connected to each other.
