@@ -8,6 +8,7 @@ Documentation started on 02.04.2020
 
 ## Table of contents
 - README
+- timeline (milestones)
 - Hardware and electric (Description of all used components)
 - Software (Description of Software)
 - raspberry folder (ROS project, with all programs)
