@@ -17,6 +17,7 @@ The steering is controlled by a servomotor.
 ## Raspberry Pi
 
 As main controller i use a Raspberry Pi 4 Modell 4 with 4GB RAM.
+
 <img src="/images/raspberryPi.jpg" width="350">
 
 ## Motorcontroller
@@ -26,6 +27,5 @@ As main controller i use a Raspberry Pi 4 Modell 4 with 4GB RAM.
 ## MCP2515 CAN Module
 For the communication between the Raspberry Pi and the Motorcontroller we need the MCP2515 Can module.
 This module is necessary because the Raspberry Pi has no CAN communication and the Motorcontroller is controlled by CAN messages.
-
 
 <img src="/images/MCP2515.jpg" width="350">
