@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="raspberry" name="gamecontroller_input" type="gamecontroller_input.py" output="screen"> </node>
+    <node pkg="raspberry" name="display_uart" type="display_uart.py" output="screen"> </node>
+    <node pkg="raspberry" name="PWM_output" type="PWM_output.py" output="screen"> </node>
+    <node pkg="raspberry" name="can_communication" type="can_communication.py" output="screen"> </node>
+</launch>
