@@ -12,7 +12,7 @@ For an easier software management i use the Robot Operating System framework (Ve
 </p>
 
 
-With this framework it is possible to split the programm in subprogramms which can communicate with each other.
+With this framework it is possible to split the system in subroutines that communicate with each other.
 
 ## Steering (PWM Output)
 <p align="center">
