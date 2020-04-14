@@ -9,10 +9,9 @@ Documentation started on 02.04.2020
 ## Table of contents
 - README
 - timeline (milestones)
-- Hardware and electric (Description of all used components)
+- Hardware and Electric (Description of used components)
 - Software (Description of Software)
-- raspberry folder (ROS project, with all programs)
-- images folder (all used images)
+- images (all used images)
 
 
 ## Car Profile Picture
