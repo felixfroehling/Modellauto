@@ -16,7 +16,8 @@ With this framework it is possible to split the programm in subprogramms which c
 
 ## Steering (PWM Output)
 <p align="center">
-  <img width="200" src="images/TiemposServo.png">
+  <img width="300" src="/images/TiemposServo.png"><br>
+  <b>Source:https://de.wikipedia.org/wiki/Servo</b>
 </p>
 
 The steering is a short and simple ROS Node. The Node subscribe to the "steering" Topic and gets throught this the requested steering angle.
