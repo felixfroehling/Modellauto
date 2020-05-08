@@ -16,16 +16,16 @@ Documentation started on 02.04.2020
 
 
 ## Car Profile Picture
-<img src="/images/car_outdoor.jpg" width="600">
+<img src="/images/car_outdoor_08.05_2.jpg" width="600">
 
-##Overview
-#Hardware
+## Project Description
+### Hardware
 The modelcar is build around a raspberry Pi 4 with Raspbian as operating system.
 As chassis i used an old RC buggy and replaced the combustion engine with an electric motor.
 The electric motor has a seperate controller which communicate via CAN bus with the raspberry Pi.
 In the front i added two ultrasonic distance sensors and a Picamera.
 Additionally to this, a Display with 5 buttons is mounted on the top for live informations.
-#Software
+### Software
 For the software i use the Robot Operating System as Framework, so i can 
 
 
