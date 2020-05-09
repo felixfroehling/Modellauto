@@ -34,10 +34,10 @@ So i can edit and test each subsystem on its own. The Nodes can be find in the "
 # TODO
 - Battery supply of the engine
 - Finish Startup menu on the display
-- first field test
-- follow the line project with the camera
+- first field tests
+- "follow the line" project with the camera
 
 # Done
-- Next step, write python program to control the car with a gaming controller (Done, see Software/ROS-Nodes/gamecontroller_input.py)
+- Write python program to control the car with a gaming controller (Done, see Software/ROS-Nodes/gamecontroller_input.py)
 - Image processing with python, so the car can follow a black line
 - connect a display to Raspberry Pi (UART connection) (Done, See Software/ROS-Nodes/display_uart.py)
