@@ -1,5 +1,5 @@
 # Modellauto
-A home project for the electrification and automation of a model car by Felix Fröhling
+A home project for the electrification and automation of a model car by Felix Fröhling <br />
 This Project has no specific goal and is just for fun.
 
 Project started on 16.03.2020
@@ -25,9 +25,11 @@ As chassis i used an old RC buggy and replaced the combustion engine with an ele
 The electric motor has a seperate controller which communicate via CAN bus with the raspberry Pi.
 In the front i added two ultrasonic distance sensors and a Picamera.
 Additionally to this, a Display with 5 buttons is mounted on the top for live informations.
+For further information take a look in the "Hardware & Electric" folder.
 ### Software
-For the software i use the Robot Operating System as Framework, so i can 
-
+For the software i use the Robot Operating System as framework, so i can combine smaller programms to a funktional system.
+Every Sensor and actuator has its own programm called "Node" and communicate with the other Nodes over the framework.
+So i can edit and test each subsystem on its own. The Nodes can be find in the "Software" folder.
 
 # TODO
 - Battery supply of the engine
