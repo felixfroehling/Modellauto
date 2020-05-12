@@ -39,6 +39,7 @@ So i can edit and test each subsystem on its own. The Nodes can be found in the 
 
 
 # Tasks done
+- face detection and tracking with camera (Done, up to 8 fps)
 - Write python program to control the car with a gaming controller (Done, see Software/ROS-Nodes/gamecontroller_input.py)
 - Image processing with python, so the car can follow a black line
 - connect a display to Raspberry Pi (UART connection) (Done, See Software/ROS-Nodes/display_uart.py)
