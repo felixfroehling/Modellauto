@@ -38,7 +38,7 @@ So i can edit and test each subsystem on its own. The Nodes can be found in the 
 - "follow the line" project with the camera
 
 
-# Done
+# Tasks done
 - Write python program to control the car with a gaming controller (Done, see Software/ROS-Nodes/gamecontroller_input.py)
 - Image processing with python, so the car can follow a black line
 - connect a display to Raspberry Pi (UART connection) (Done, See Software/ROS-Nodes/display_uart.py)
