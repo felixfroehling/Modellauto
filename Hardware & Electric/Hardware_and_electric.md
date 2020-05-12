@@ -5,7 +5,7 @@ In this document I will give an overview of the used hardware components.
 ## System Block Diagram
 For better understanding i made a system block diagram to show how the components are connected to each other.
 
-<img src="/images/Overview_blockdiagram.jpg" width="700">
+<img src="/images/System_blockdiagram.jpg" width="900">
 
 ## Chassis
 
