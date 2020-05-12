@@ -9,7 +9,6 @@ Documentation started on 02.04.2020
 
 ## Table of contents
 - README
-- timeline (milestones)
 - Hardware and Electric (Description of used components)
 - Software (Description of Software)
 - images (all used images)
@@ -29,13 +28,15 @@ For further information take a look in the "Hardware & Electric" folder.
 ### Software
 For the software i use the Robot Operating System as framework, so i can combine smaller programms to a funktional system.
 Every Sensor and actuator has its own programm called "Node" and communicate with the other Nodes over the framework.
-So i can edit and test each subsystem on its own. The Nodes can be find in the "Software" folder.
+So i can edit and test each subsystem on its own. The Nodes can be found in the "Software" folder.
 
 # TODO
 - Battery supply of the engine
 - Finish Startup menu on the display
 - first field tests
+- import face detection and tracking into ROS framework
 - "follow the line" project with the camera
+
 
 # Done
 - Write python program to control the car with a gaming controller (Done, see Software/ROS-Nodes/gamecontroller_input.py)
