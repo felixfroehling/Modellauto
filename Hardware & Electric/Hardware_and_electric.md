@@ -29,3 +29,12 @@ For the communication between the Raspberry Pi and the Motorcontroller we need t
 This module is necessary because the Raspberry Pi has no CAN communication and the Motorcontroller is controlled by CAN messages.
 
 <img src="/images/MCP2515.jpg" width="350">
+
+## Display
+--Coming soon--
+
+## Camera
+--Coming soon--
+
+## Ultrasonic range sensors
+--coming soon--
