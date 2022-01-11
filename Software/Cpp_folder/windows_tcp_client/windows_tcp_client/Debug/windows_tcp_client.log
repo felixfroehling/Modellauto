@@ -1,0 +1,3 @@
+﻿  windows_tcp_client.cpp
+C:\Users\Felix\source\repos\windows_tcp_client\windows_tcp_client\windows_tcp_client.cpp(11,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  windows_tcp_client.vcxproj -> C:\Users\Felix\source\repos\windows_tcp_client\Debug\windows_tcp_client.exe
